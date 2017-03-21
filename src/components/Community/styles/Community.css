@@ -1,0 +1,9 @@
+.community-banner {
+  display: flex;
+  height: 200px;
+  width: 100%;
+  color: #fff;
+  background: #EB7E6C;
+  align-items: center;
+  justify-content: center;
+}

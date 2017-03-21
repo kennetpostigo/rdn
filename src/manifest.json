@@ -1,0 +1,14 @@
+{
+  "name": "Reason Developer Network",
+  "short_name": "RDN",
+  "theme_color": "#CE5643",
+  "background_color": "#fff",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/assets/Logo.png",
+      "sizes": "192x192"
+    }
+  ]
+}

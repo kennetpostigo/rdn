@@ -1,0 +1,98 @@
+var mdpath = {
+  "guides": {
+    "crossPlatform": {},
+    "native": {
+      "anIntroductionToReason": {
+        "coreLanguage": "guides/native/anIntroductionToReason/coreLanguage/coreLanguage.md",
+        "functions": "guides/native/anIntroductionToReason/coreLanguage/functions.md",
+        "functors": "guides/native/anIntroductionToReason/coreLanguage/functors.md",
+        "lists": "guides/native/anIntroductionToReason/coreLanguage/lists.md",
+        "modules": "guides/native/anIntroductionToReason/coreLanguage/modules.md",
+        "objects": "guides/native/anIntroductionToReason/coreLanguage/objects.md",
+        "records": "guides/native/anIntroductionToReason/coreLanguage/records.md",
+        "tuples": "guides/native/anIntroductionToReason/coreLanguage/tuples.md",
+        "getUpNRunning": "guides/native/anIntroductionToReason/getUpNRunning.md",
+        "introduction": "guides/native/anIntroductionToReason/introduction.md",
+        "meta": "guides/native/anIntroductionToReason/meta.md",
+        "tableOfContents": "guides/native/anIntroductionToReason/tableOfContents.md",
+        "readingTypes": "guides/native/anIntroductionToReason/types/readingTypes.md",
+        "typeAliases": "guides/native/anIntroductionToReason/types/typeAliases.md",
+        "types": "guides/native/anIntroductionToReason/types/types.md",
+        "variants": "guides/native/anIntroductionToReason/types/variants.md"
+      }
+    },
+    "server": {},
+    "tooling": {},
+    "web": {}
+  },
+  "documentation": {
+    "crossPlatform": {},
+    "native": {
+      "reason": {
+        "append": "documentation/native/reason/list/append.md",
+        "array": "documentation/native/reason/array/array.md",
+        "blit": "documentation/native/reason/array/blit.md",
+        "concat": "documentation/native/reason/string/concat.md",
+        "copy": "documentation/native/reason/array/copy.md",
+        "create_float": "documentation/native/reason/array/create_float.md",
+        "fill": "documentation/native/reason/array/fill.md",
+        "get": "documentation/native/reason/string/get.md",
+        "init": "documentation/native/reason/string/init.md",
+        "length": "documentation/native/reason/string/length.md",
+        "make": "documentation/native/reason/string/make.md",
+        "make_matrix": "documentation/native/reason/array/make_matrix.md",
+        "of_list": "documentation/native/reason/array/of_list.md",
+        "set": "documentation/native/reason/array/set.md",
+        "sub": "documentation/native/reason/string/sub.md",
+        "to_list": "documentation/native/reason/array/to_list.md",
+        "introduction": "documentation/native/reason/introduction.md",
+        "cons": "documentation/native/reason/list/cons.md",
+        "flatten": "documentation/native/reason/list/flatten.md",
+        "hd": "documentation/native/reason/list/hd.md",
+        "list": "documentation/native/reason/list/list.md",
+        "nth": "documentation/native/reason/list/nth.md",
+        "rev": "documentation/native/reason/list/rev.md",
+        "rev_append": "documentation/native/reason/list/rev_append.md",
+        "tl": "documentation/native/reason/list/tl.md",
+        "meta": "documentation/native/reason/meta.md",
+        "capitalize": "documentation/native/reason/string/capitalize.md",
+        "capitalize_ascii": "documentation/native/reason/string/capitalize_ascii.md",
+        "compare": "documentation/native/reason/string/compare.md",
+        "contains": "documentation/native/reason/string/contains.md",
+        "contains_from": "documentation/native/reason/string/contains_from.md",
+        "equal": "documentation/native/reason/string/equal.md",
+        "escaped": "documentation/native/reason/string/escaped.md",
+        "index": "documentation/native/reason/string/index.md",
+        "index_from": "documentation/native/reason/string/index_from.md",
+        "iter": "documentation/native/reason/string/iter.md",
+        "iteri": "documentation/native/reason/string/iteri.md",
+        "lowercase": "documentation/native/reason/string/lowercase.md",
+        "lowercase_ascii": "documentation/native/reason/string/lowercase_ascii.md",
+        "map": "documentation/native/reason/string/map.md",
+        "mapi": "documentation/native/reason/string/mapi.md",
+        "rcontains_from": "documentation/native/reason/string/rcontains_from.md",
+        "rindex": "documentation/native/reason/string/rindex.md",
+        "rindex_from": "documentation/native/reason/string/rindex_from.md",
+        "split_on_char": "documentation/native/reason/string/split_on_char.md",
+        "string": "documentation/native/reason/string/string.md",
+        "trim": "documentation/native/reason/string/trim.md",
+        "uncapitalize": "documentation/native/reason/string/uncapitalize.md",
+        "uncapitalize_ascii": "documentation/native/reason/string/uncapitalize_ascii.md",
+        "uppercase": "documentation/native/reason/string/uppercase.md",
+        "uppercase_ascii": "documentation/native/reason/string/uppercase_ascii.md",
+        "tableOfContents": "documentation/native/reason/tableOfContents.md"
+      }
+    },
+    "server": {},
+    "tooling": {},
+    "web": {}
+  },
+  "talksAndSlides": {
+    "crossPlatform": {},
+    "native": {},
+    "server": {},
+    "tooling": {},
+    "web": {}
+  }
+}; 
+ export default mdpath

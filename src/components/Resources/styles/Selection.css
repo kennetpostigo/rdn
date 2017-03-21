@@ -1,0 +1,18 @@
+.selection{
+  display: flex;
+}
+.selection .active {
+  border-bottom: 1px solid #EB7E6C;
+  padding: 20px;
+}
+.selection .inactive {
+  border-bottom: 1px solid #E1E1E1;
+  padding: 20px;
+}
+.selection .normalize-link, .selection .normalize-link p {
+  color: black;
+  margin: 0;
+}
+.selection .normalize-link:hover {
+  color: black;
+}

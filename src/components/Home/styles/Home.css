@@ -1,0 +1,39 @@
+.home-banner {
+  display: flex;
+  height: 200px;
+  width: 100%;
+  color: #fff;
+  background: #EB7E6C;
+  align-items: center;
+  justify-content: center;
+}
+.home-banner h1 {
+  font-weight: 400;
+}
+.header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.header h2, a, a p{
+  padding: 0;
+  margin: 0 2px;
+}
+.header h2 {
+  margin-bottom: 7px;
+}
+.header a p{
+  margin-bottom: 8px;
+  color: #CFCFCF;
+  font-size: 12px;
+}
+.header a p:hover {
+  color: #CE5643;
+}
+.section {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  flex-wrap: wrap;
+  margin: -10px 0 25px 0;
+}

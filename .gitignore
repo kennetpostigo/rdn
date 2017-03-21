@@ -1,0 +1,9 @@
+node_modules
+flow-typed
+.DS_Store
+.nyc_output
+coverage
+.git
+sample
+.vscode
+dist
