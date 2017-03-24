@@ -17,7 +17,7 @@
     "node-dir": "0.1.16",
     "offline-plugin": "^4.6.1",
     "prismjs": "^1.6.0",
-    "rad-codehighlighter": "^0.0.14",
+    "rad-codehighlighter": "^0.0.15",
     "rad-navbar": "^0.0.14",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
